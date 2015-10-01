@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<authors>
+    <author id="1">
+        <ownName>
+            Andrey
+        </ownName>
+        <surName>
+            Zenau
+        </surName>
+        <dateOfBirth>
+            03.12.1987
+        </dateOfBirth>
+    </author>
+    <author id="2">
+        <ownName>
+            Dmitry
+        </ownName>
+        <surName>
+            Kulevich
+        </surName>
+        <dateOfBirth>
+            01.01.1987
+        </dateOfBirth>
+    </author>
+    <author id="3">
+        <ownName>
+            MIkalai
+        </ownName>
+        <surName>
+            Batsilau
+        </surName>
+        <dateOfBirth>
+            13.13.1313
+        </dateOfBirth>
+    </author>
+</authors>

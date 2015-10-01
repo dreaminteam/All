@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authorsAndBooks>
+
+    <record n="1">
+        <authorID>
+            1
+        </authorID>
+        <bookID>
+            1
+        </bookID>
+    </record>
+
+    <record n="2">
+        <authorID>
+            1
+        </authorID>
+        <bookID>
+            2
+        </bookID>
+    </record>
+
+    <record n="3">
+        <authorID>
+            2
+        </authorID>
+        <bookID>
+            1
+        </bookID>
+    </record>
+
+    <record n="4">
+        <authorID>
+            2
+        </authorID>
+        <bookID>
+            2
+        </bookID>
+    </record>
+
+</authorsAndBooks>

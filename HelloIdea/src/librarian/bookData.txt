@@ -1,0 +1,7 @@
+Alisa;Fox;[Fox];true
+Marlin;Robertson;[Robertson];true
+Buratino;Burik;[Burik];true
+Histori of the Rome;Historikus;[Historikus];false
+ghfhghgm;gkgkg;[gkgkg];true
+ggl;gmkgkkg;[gmkgkkg];true
+Harry;detective;[Horstman];true

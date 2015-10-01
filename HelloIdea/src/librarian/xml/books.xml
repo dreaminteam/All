@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="1" availability="true">
+        <name>
+            Alisa
+        </name>
+        <yearOfPublication>
+            1987
+        </yearOfPublication>
+        <genre>
+            fantasy
+        </genre>
+        <availability>
+            true
+        </availability>
+    </book>
+    <book id="2" availability="false">
+        <name>
+            Crocodile
+        </name>
+        <yearOfPublication>
+            1999
+        </yearOfPublication>
+        <genre>
+            natural
+        </genre>
+        <availability>
+            false
+        </availability>
+    </book>
+    <book id="3" availability="true">
+        <name>
+            Alien
+        </name>
+        <yearOfPublication>
+            2000
+        </yearOfPublication>
+        <genre>
+            fantasy
+        </genre>
+        <availability>
+            true
+        </availability>
+    </book>
+</books>
